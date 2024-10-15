@@ -6,3 +6,6 @@ https://chain-furniture-3e5.notion.site/419fdbf98198489a83b1d27651ea3c27?pvs=4
 
 ## Chapter04: 클래스와 인터페이스
 https://chain-furniture-3e5.notion.site/8a93e34b06d34dc09160aa4ebfbacd5a?pvs=4
+
+## Chapter05: 제네릭
+https://chain-furniture-3e5.notion.site/10799be0a38c80ce9e73fed29b375021?pvs=4
