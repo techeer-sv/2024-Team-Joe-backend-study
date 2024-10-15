@@ -1,0 +1,1 @@
+https://silicon-toucan-7d1.notion.site/Effective-java-5-120ae715aa2380c090ecd72a999a1712
