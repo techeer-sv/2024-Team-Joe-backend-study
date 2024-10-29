@@ -9,3 +9,6 @@ https://chain-furniture-3e5.notion.site/8a93e34b06d34dc09160aa4ebfbacd5a?pvs=4
 
 ## Chapter05: 제네릭
 https://chain-furniture-3e5.notion.site/10799be0a38c80ce9e73fed29b375021?pvs=4
+
+## Chapter06: 열거 타입과 애너테이션
+https://chain-furniture-3e5.notion.site/10799be0a38c8075947acd452411e77b?pvs=4
