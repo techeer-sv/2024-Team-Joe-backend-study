@@ -1,0 +1,1 @@
+[notion 정리 Link](https://blush-tourmaline-36e.notion.site/chap07-team-joe-13b6d694a13d8048b460cd6d19c116d1?pvs=73)

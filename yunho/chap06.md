@@ -1,0 +1,1 @@
+[notion 정리 link](https://blush-tourmaline-36e.notion.site/6-12e6d694a13d809bb939c9c8e7171b46)
