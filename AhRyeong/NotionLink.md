@@ -5,4 +5,5 @@
 [ch06 열거타입과 애너테이션](https://ambitious-recess-219.notion.site/6-12175e05e52a80b28e99e53be39116dc?pvs=4)<br/>
 [ch07 람다와 스트림](https://ambitious-recess-219.notion.site/7-12975e05e52a8078b1d9e2f1ce0aa5ec?pvs=4)<br/>
 [ch08 메서드](https://ambitious-recess-219.notion.site/8-13075e05e52a807ea377cb27caa6d549?pvs=4)<br/>
-[ch09 일반적인 프로그래밍 원칙](https://ambitious-recess-219.notion.site/9-13675e05e52a80e28f9cd209815c2951) 
+[ch09 일반적인 프로그래밍 원칙](https://ambitious-recess-219.notion.site/9-13675e05e52a80e28f9cd209815c2951) <br/> 
+[ch10. 예외](https://ambitious-recess-219.notion.site/10-13b75e05e52a800e8fe3e89044e93ad8?pvs=4) 
