@@ -12,3 +12,15 @@ https://chain-furniture-3e5.notion.site/10799be0a38c80ce9e73fed29b375021?pvs=4
 
 ## Chapter06: 열거 타입과 애너테이션
 https://chain-furniture-3e5.notion.site/10799be0a38c8075947acd452411e77b?pvs=4
+
+## Chapter07: 람다와 스트림
+
+
+## Chapter08: 메서드
+https://chain-furniture-3e5.notion.site/10799be0a38c80f5be3ffd8be8cf492b?pvs=4
+
+## Chapter09: 일반적인 프로그래밍 원칙
+https://chain-furniture-3e5.notion.site/10799be0a38c8005b244fee9a27103d7?pvs=4
+
+## Chapter10: 예외
+https://chain-furniture-3e5.notion.site/10799be0a38c803fb2ecf157b2e9bcd4?pvs=4
