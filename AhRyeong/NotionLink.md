@@ -6,4 +6,5 @@
 [ch07 람다와 스트림](https://ambitious-recess-219.notion.site/7-12975e05e52a8078b1d9e2f1ce0aa5ec?pvs=4)<br/>
 [ch08 메서드](https://ambitious-recess-219.notion.site/8-13075e05e52a807ea377cb27caa6d549?pvs=4)<br/>
 [ch09 일반적인 프로그래밍 원칙](https://ambitious-recess-219.notion.site/9-13675e05e52a80e28f9cd209815c2951) <br/> 
-[ch10. 예외](https://ambitious-recess-219.notion.site/10-13b75e05e52a800e8fe3e89044e93ad8?pvs=4) 
+[ch10. 예외](https://ambitious-recess-219.notion.site/10-13b75e05e52a800e8fe3e89044e93ad8?pvs=4) </br>
+[ch12. 직렬화](https://ambitious-recess-219.notion.site/12-14c75e05e52a8021b6c5e543b19554c4?pvs=4)
